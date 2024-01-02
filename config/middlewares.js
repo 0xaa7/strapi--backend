@@ -1,7 +1,7 @@
 module.exports = [
   "strapi::logger",
   "strapi::errors",
-  // "strapi::security",
+  //"strapi::security",
   {
     name: "strapi::cors",
     config: {
